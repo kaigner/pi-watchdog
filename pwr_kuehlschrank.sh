@@ -7,7 +7,7 @@ getData="<?xml version="1.0"?>
   <methodCall>
   <methodName>getValue</methodName>
     <params>
-      <param><value><string>$HM_PMSW1_ID_Kuehlschrank</string></value></param>
+      <param><value><string>$HM_PMSW1_ID_Kuehlschrank:1</string></value></param>
       <param><value><string>STATE</string></value></param>
     </params>
 </methodCall>"
